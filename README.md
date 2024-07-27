@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jirbthagoras
-- 👀 I’m interested in Front-End Development, Game Development, and Data Science
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Laravel
 
 <!---
