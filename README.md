@@ -1,10 +1,22 @@
 # Hey there! Welcome to my Domain 🫡
 
-<h1>About Me:</h1>
+<h1>So,</h1>
 
 <p> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong> </p>
 <br>
 <p> Currently, I study at <strong>SMK Negeri 8 Semarang</strong> </p>
+<br>
+<p> That's it </p>
+
+# Learning progess 📈
+
+<h2>Currently, i'm learning:</h2>
+<ul>
+  <li><strong>- Laravel</strong></li>
+  <li><strong>- React JS</strong></li>
+</ul>
+<br>
+<h2>I'm very interested in <strong>Software Engineering</strong> and many stuffs</h2>
 
 # Stats 📊
 
