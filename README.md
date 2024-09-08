@@ -1,5 +1,7 @@
 # Hey there! 🫡
 
+<p> My name is Jabriel Hans Talula, you can call me Jabriel </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirbthagoras)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
