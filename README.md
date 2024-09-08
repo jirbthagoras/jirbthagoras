@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jirbthagoras
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Laravel
+# Hey there! 🫡
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirbthagoras)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jirbthagoras/jirbthagoras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
