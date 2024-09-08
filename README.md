@@ -2,9 +2,9 @@
 
 <h1>About Me:</h1>
 
-<p> My name is <strong>Jabriel Hans Talula</strong>, you can call me Jabriel </p>
+<p> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong> </p>
 <br>
-<p> Currently, I study at SMK Negeri 8 Semarang </p>
+<p> Currently, I study at <strong>SMK Negeri 8 Semarang</strong> </p>
 
 # Stats 📊
 
