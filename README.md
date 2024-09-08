@@ -10,13 +10,13 @@
 
 # Learning progess 📈
 
-<h2>Currently, i'm learning:</h2>
+<h4>Currently, i'm learning:</h4>
 <ul>
   <li><strong>- Laravel</strong></li>
   <li><strong>- React JS</strong></li>
 </ul>
 <br>
-<h2>I'm very interested in <strong>Software Engineering</strong> and many stuffs</h2>
+<p>I'm very interested in <strong>Software Engineering</strong> and many stuffs</p>
 
 # Stats 📊
 
