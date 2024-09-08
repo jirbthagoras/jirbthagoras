@@ -12,8 +12,8 @@
 
 <h4>Currently, i'm learning:</h4>
 <ul>
-  <li><strong>- Laravel</strong></li>
-  <li><strong>- React JS</strong></li>
+  <li><strong>Laravel</strong></li>
+  <li><strong>React JS</strong></li>
 </ul>
 <br>
 <p>I'm very interested in <strong>Software Engineering</strong> and many stuffs</p>
