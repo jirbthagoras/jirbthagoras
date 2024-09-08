@@ -4,7 +4,7 @@
 
 <p> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong> </p>
 <br>
-<p> Currently, I study at <strong>SMK Negeri 8 Semarang</strong> </p>
+<p> Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> </p>
 <br>
 <p> That's it </p>
 
