@@ -1,4 +1,4 @@
-# Hey there! 🫡
+# Hey there! Welcome to my Domain 🫡
 
 <h1>About Me:</h1>
 
@@ -6,7 +6,7 @@
 <br>
 <p> Currently, I study at SMK Negeri 8 Semarang </p>
 
-# GitHub stats 📊
+# Stats 📊
 
 <picture>
   <source
@@ -22,6 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-# GitHub streaks 🔥
+# Streaks 🔥
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jirbthagoras&theme=radical&card_width=490" alt="GitHub Streak" /></a>
