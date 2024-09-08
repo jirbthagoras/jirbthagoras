@@ -1,6 +1,10 @@
 # Hey there! 🫡
 
+<h1>About Me:</h1>
+
 <p> My name is Jabriel Hans Talula, you can call me Jabriel </p>
+<br>
+<p> Currently, I study at SMK Negeri 8 Semarang </p>
 
 # GitHub stats 📊
 
