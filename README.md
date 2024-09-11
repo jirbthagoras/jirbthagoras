@@ -2,16 +2,14 @@
 
 
 
-<h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong>. I love to learn something new especially an idea or system</h3>
-
-<h3>
+<h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong></h3>
 
 <ul>
   <li>📚 Currently i'm learning <strong>Laravel</strong></li>
-  <li>💻 I'm very very interested to be a: <strong>Software Engineer</strong></li>
+  <li>💻 I'm very very interested to be a <strong>Software Engineer</strong></li>
+  <li>⚙️ I love to learn something new, especially <strong>idea or system</strong></li>\
 </ul>
-  
-</h3>
+
 
 # Techs 🖥️
 
