@@ -2,7 +2,7 @@
 
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.</h3>
 
-# Techs
+# Techs 🖥️
 
 <span> 
 
@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
 
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 </span>
 
