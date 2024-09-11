@@ -2,7 +2,7 @@
 
 <h1>So,</h1>
 
-<h2> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>.Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.
+<h2> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.</h2>
 
 # Learning progess 📈
 
