@@ -2,15 +2,9 @@
 
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.</h3>
 
-# Learning progresses 📈
+# Techs
 
-<h4>Currently, i'm learning:</h4>
-<ul>
-  <li><strong>Laravel</strong></li>
-  <li><strong>React JS</strong></li>
-</ul>
-<br>
-<p>I'm very interested in <strong>Software Engineering</strong> and many stuffs</p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 # Stats 📊
 
