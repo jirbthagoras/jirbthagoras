@@ -2,6 +2,15 @@
 
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.</h3>
 
+<h3>
+
+<ul>
+  <li>📚 Currently i'm learning <strong>Laravel</strong></li>
+  <li>💻 I'm very very interested to be a: <strong>Software Engineer</strong></li>
+</ul>
+  
+</h3>
+
 # Techs 🖥️
 
 <span> 
