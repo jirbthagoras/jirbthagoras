@@ -1,6 +1,4 @@
-# Hey there! Welcome to my Domain 🫡
-
-<h1>So,</h1>
+# Hey there! Welcome to my Domain 🧐
 
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm studying at <strong>SMK Negeri 8 Semarang</strong> That's it.</h3>
 
