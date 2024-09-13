@@ -37,6 +37,8 @@
 
 # Stats 📊
 
+<span>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true&theme=radical"
@@ -46,13 +48,16 @@
     srcset="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</picture>
 
+  
 <img src="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true" />
+</picture>
 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical)
+
+</span>
 
 # Streaks 🔥
 
