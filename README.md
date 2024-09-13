@@ -37,8 +37,6 @@
 
 # Stats 📊
 
-<span>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true&theme=radical"
@@ -52,7 +50,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true" />
 
-</span>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical)
