@@ -6,7 +6,7 @@
 
 <ul>
   <li>📚 Currently i'm learning <strong>Laravel</strong></li>
-  <li>💻 I'm very very interested to be a <strong>Software Engineer</strong></li>
+  <li>💻 I'm very interested to be a <strong>Software Engineer</strong></li>
   <li>⚙️ I love to learn something new, especially <strong>idea or system</strong></li>
 </ul>
 
