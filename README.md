@@ -1,4 +1,4 @@
-<h1 align='center'>Hello there! Welcome to my Domain 🧐</h1>
+<h1 align='center'>Hey there! Welcome to my Domain 🧐</h1>
 
 
 
