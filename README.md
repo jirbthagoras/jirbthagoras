@@ -6,7 +6,7 @@
 
 <ul>
   <li>📚 Currently i'm learning <strong>GoLang</strong></li>
-  <li>💻 I'm very interested to <strong>Software Engineering</strong> and <strong>Machine Learning</strong></li>
+  <li>💻 I'm very interested to <strong>Software Engineering</strong> and <strong>Mostly Everything</strong></li>
   <li>⚙️ I'd love to learn something new, especially <strong>Idea or System</strong></li>
 </ul>
 
