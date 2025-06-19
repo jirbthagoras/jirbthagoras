@@ -5,7 +5,7 @@
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm a Student at <strong>SMK Negeri 8 Semarang</strong>. Nice to meet you!</h3>
 
 <ul>
-  <li>📚 Currently i'm learning <strong>GO, TypeScript, and Rust</strong></li>
+  <li>📚 Currently i'm learning <strong>Go, TypeScript, and Rust</strong></li>
   <li>💻 I'm very interested into <strong>Software Engineering</strong></li>
   <li>⚙️ I'd love to learn something new, pretty much <strong>Everything!</strong></li>
 </ul>
