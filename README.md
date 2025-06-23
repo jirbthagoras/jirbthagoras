@@ -7,7 +7,7 @@
 <ul>
   <li>📚 Currently i'm learning <strong>Go, TypeScript, and Rust</strong></li>
   <li>💻 I'm very interested into <strong>Software Engineering</strong></li>
-  <li>⚙️ I'd love to learn something new, pretty much <strong>everything!</strong></li>
+  <li>⚙️ I'd love to learn something new, pretty much <strong>everything!!</strong></li>
 </ul>
 
 
