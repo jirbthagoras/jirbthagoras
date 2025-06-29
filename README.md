@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm a Student at <strong>SMK Negeri 8 Semarang</strong>. Nice to meet you!</h3>
+<h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, you can call me <strong>Jabriel</strong>. Currently, I'm a Student at <strong>SMK Negeri 8 Semarang</strong></h3>
 
 <ul>
   <li>📚 Currently i'm learning <strong>Go, TypeScript, and Rust</strong></li>
