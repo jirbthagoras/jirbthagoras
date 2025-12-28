@@ -1,7 +1,5 @@
 <h1 align='center'>Hey there! Welcome to my Domain 🧐</h1>
 
-
-
 <h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, call me <strong>Jabriel</strong>. Currently, I'm a Student at <strong>SMK Negeri 8 Semarang</strong></h3>
 
 <ul>
@@ -10,10 +8,9 @@
   <li>⚙️ I'd love to learn something new, pretty much <strong>everything!!</strong></li>
 </ul>
 
-
 # Techs 🖥️
 
-<span> 
+<span>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
@@ -57,11 +54,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-  
 <img src="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true" />
 </picture>
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical)
 
@@ -76,3 +70,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
 </picture>
+
+# WakaTime 📈
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
