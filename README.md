@@ -76,13 +76,12 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 December 2025 - To: 31 December 2025
+From: 27 December 2025 - To: 02 January 2026
 
-Total Time: 48 mins
+Total Time: 2 hrs 54 mins
 
-TypeScript   30 mins         >>>>>>>>>>>>>>>----------   59.09 %
-YAML         14 mins         >>>>>>>------------------   27.61 %
-Other        3 mins          >>-----------------------   06.75 %
+TypeScript   2 hrs 14 mins   >>>>>>>>>>>>>>>>>--------   69.19 %
+Other        20 mins         >>>----------------------   10.65 %
 ```
 
 <!--END_SECTION:waka-->
