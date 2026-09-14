@@ -1,93 +1,92 @@
-<h1 align='center'>Hey there! Welcome to my Domain 🧐</h1>
+# 👋 Hi, I'm Jabriel Hans Talula
 
-<h3 align="center"> My name is <strong>Jabriel Hans Talula</strong>, call me <strong>Jabriel</strong>. Currently, I'm a Student at <strong>SMK Negeri 8 Semarang</strong></h3>
+**Software Engineering Student** @ Politeknik Negeri Semarang | Aspiring **Backend Engineer** & **Solution Architect**
 
-<ul>
-  <li>📚 Currently i'm learning <strong>Java</strong></li>
-  <li>💡 I have a good grasps in GO and TypeScript</li>
-  <li>💻 I'm very interested to become a <strong>Software Engineer</strong></li>
-  <li>⚙️ I'd love to learn something new, pretty much <strong>everything!!</strong></li>
-</ul>
+I'm passionate about building scalable backend systems and cloud infrastructure. Currently honing my skills in distributed systems, microservices architecture, and cloud-native solutions.
 
-# Techs 🖥️
+---
 
-<span>
+## 🎯 Career Goals
+- **Backend Software Engineer** – Building robust, scalable APIs and services
+- **Solution Architect** – Designing cloud-native, resilient systems on AWS
+- **Open to internships** and collaborative projects in software engineering
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+---
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white">
+## 💼 Technical Skills
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+### **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
 
-<img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white">
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+### **Tools & Platforms**
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+---
 
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
+<div align="center">
+  
+![Jabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+![GitHub Streak](https://streak-stats.demolab.com?user=jirbthagoras&theme=radical&hide_border=true&card_width=490)
 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
-</span>
+---
 
-# Stats 📊
+## 🐍 Contribution Snake
 
-<span>
+![Snake animation](https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical)
-
-</span>
-
-# Streaks 🔥
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jirbthagoras&theme=radical&card_width=490" alt="GitHub Streak" /></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
-</picture>
-
-# WakaTime 📈
+## 📈 Recent Activity
 
 <!--START_SECTION:waka-->
 
-```go
+```text
 From: 27 December 2025 - To: 13 September 2026
-
 Total Time: 49 hrs 20 mins
 
-Java              16 hrs                >>>>>>>>-----------------   31.24 %
-TypeScript        9 hrs 8 mins          >>>>---------------------   17.83 %
-C                 6 hrs 44 mins         >>>----------------------   13.16 %
-C++               3 hrs 25 mins         >>-----------------------   06.68 %
-Rust              3 hrs 5 mins          >>-----------------------   06.02 %
-Go                2 hrs 23 mins         >------------------------   04.66 %
-Other             1 hr 53 mins          >------------------------   03.69 %
+Java              16 hrs 31.24%  >>>>>>>>-----------------
+TypeScript        9 hrs 17.83%   >>>>---------------------
+C                 6 hrs 44 mins 13.16%  >>>----------------------
+C++               3 hrs 25 mins 6.68%   >>-----------------------
+Rust              3 hrs 5 mins  6.02%   >>-----------------------
+Go                2 hrs 23 mins 4.66%   >------------------------
+Other             1 hr 53 mins  3.69%   >------------------------
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub**: [@jirbthagoras](https://github.com/jirbthagoras)
+- **Portfolio**: [jirbthagorush.vercel.app](https://jirbthagorush.vercel.app/)
+- **Email**: Available upon request
+- **Open to**: Internships, collaborations, and backend engineering opportunities
