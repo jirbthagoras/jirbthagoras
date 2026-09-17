@@ -7,6 +7,7 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ---
 
 ## 🎯 Career Goals
+
 - **Backend Software Engineer** – Building robust, scalable APIs and services
 - **Solution Architect** – Designing cloud-native, resilient systems on AWS
 - **Open to internships** and collaborative projects in software engineering
@@ -16,6 +17,7 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ## 💼 Technical Skills
 
 ### **Backend Development**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,6 +25,7 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frameworks & Libraries**
+
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -30,6 +33,7 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,12 +42,14 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### **Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **Tools & Platforms**
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
@@ -51,15 +57,9 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Jabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jirbthagoras&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jirbthagoras&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=jirbthagoras&theme=radical&hide_border=true&card_width=490)
 
 </div>
