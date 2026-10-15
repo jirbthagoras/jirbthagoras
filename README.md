@@ -78,16 +78,16 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 December 2025 - To: 12 October 2026
+From: 27 December 2025 - To: 13 October 2026
 
-Total Time: 53 hrs 46 mins
+Total Time: 54 hrs 7 mins
 
-Java              16 hrs                >>>>>>>------------------   28.46 %
-TypeScript        10 hrs                >>>>---------------------   17.78 %
-C                 6 hrs 46 mins         >>>----------------------   12.04 %
-C++               3 hrs 56 mins         >>-----------------------   07.00 %
-Rust              3 hrs 5 mins          >------------------------   05.49 %
-Other             2 hrs 28 mins         >------------------------   04.39 %
+Java              16 hrs                >>>>>>>------------------   28.10 %
+TypeScript        10 hrs                >>>>---------------------   17.58 %
+C                 6 hrs 46 mins         >>>----------------------   11.89 %
+C++               3 hrs 56 mins         >>-----------------------   06.91 %
+Rust              3 hrs 5 mins          >------------------------   05.42 %
+Other             2 hrs 50 mins         >------------------------   04.98 %
 ```
 
 <!--END_SECTION:waka-->
