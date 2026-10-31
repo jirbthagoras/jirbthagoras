@@ -78,7 +78,7 @@ I'm passionate about building scalable backend systems and cloud infrastructure.
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 December 2025 - To: 28 October 2026
+From: 27 December 2025 - To: 29 October 2026
 
 Total Time: 55 hrs 43 mins
 
